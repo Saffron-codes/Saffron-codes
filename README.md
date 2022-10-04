@@ -1,5 +1,5 @@
 ### 👋 Hi there I'm Saffron
->**I'm a mobile/web developer 
+>**I'm a mobile/web developer**
 - I'm Currently working on [svik]
 - I'm Currently learning Postgres,GraphQL
 
