@@ -10,4 +10,4 @@
 - <img src="https://external-content.duckduckgo.com/ip3/expressjs.com.ico" width=10> Express JS
 
  [#flutter]: https://flutter.dev
- [svik]: https://svik-app.web.app
+ [svik]: https://github.com/svikapp
